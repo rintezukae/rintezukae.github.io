@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    color: white;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+
+.sidebar {
+    float: left;
+    width: 8%;
+}
+
+.content {
+    float: left;
+}
+
+.secret {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
