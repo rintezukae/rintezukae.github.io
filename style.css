@@ -17,9 +17,3 @@ a:visited {
 .content {
     float: left;
 }
-
-.secret {
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-}
